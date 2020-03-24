@@ -25,7 +25,7 @@ For setup instructions, click [here](setup.md).
 ## Links
 
 1. [Product Website](https://www.cloudeya.co.uk/oow/)
-2. [EULA](https://s3.amazonaws.com/tug-public-documents/octopodamiEULA.txt)
+2. [EULA](octopodamiEULA.txt)
 3. [Knowledgebase](https://gitlab.com/cloudeya/octopodami-optimized-wordpress/-/wikis/home)
 4. [Issue Tracking](https://gitlab.com/cloudeya/octopodami-optimized-wordpress/-/issues)
 
