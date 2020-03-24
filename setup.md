@@ -72,3 +72,11 @@ To SSH into your EC2 instance:
 ## Support
 
 Email support is available to Amazon Web Services Marketplace Customers at [cloud@vmnative.com](mailto:cloud@vmnative.com). We do not offer refunds, but you may terminate your Octopodami Optimized WordPress (OOW) Stack at any time.
+
+## License
+
+The documentation is published under [BSD 3-Clause License](license.txt).
+
+## Copyright
+
+(c) 2018 [Cloudeya Limited](https://www.cloudeya.co.uk).

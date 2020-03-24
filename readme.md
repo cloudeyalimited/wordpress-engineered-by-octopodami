@@ -36,3 +36,11 @@ Email support is available to Amazon Web Services Marketplace Customers at [clou
 ## Troubleshooting
 
 For troubleshooting and frequently asked questions, please, refer to our Knowledgebase.
+
+## License
+
+The documentation is published under [BSD 3-Clause License](license.txt).
+
+## Copyright
+
+(c) 2018 [Cloudeya Limited](https://www.cloudeya.co.uk).
