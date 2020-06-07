@@ -1,6 +1,6 @@
 # Octopodami Optimized WordPress (OOW)
 
-With Octopodami Optimized WordPress (OOW), you can launch a WordPress stack preconfigured for auto-scaling, maintainability, performance, and security.
+With Octopodami Optimized WordPress (OOW), you can launch a WordPress stack pre-configured for auto-scaling, maintainability, performance, and security.
 
 Our expert engineers developed this 1-Click Amazon Machine Images (AMI) with rapid deployment in mind; we guarantee you will be up and running in 60 seconds on Amazon Web Services.
 
@@ -24,14 +24,14 @@ For setup instructions, click [here](setup.md).
 
 ## Links
 
-1. [Product Website](https://www.cloudeya.co.uk/oow/)
+1. [Product Page](https://www.cloudeya.ml/oow/)
 2. [EULA](octopodamiEULA.txt)
-3. [Knowledgebase](https://gitlab.com/cloudeya/octopodami-optimized-wordpress/-/wikis/home)
-4. [Issue Tracking](https://gitlab.com/cloudeya/octopodami-optimized-wordpress/-/issues)
+3. [Knowledgebase](https://github.com/cloudeya/octopodami-optimized-wordpress/-/wikis/home)
+4. [Issue Tracking](https://github.com/cloudeya/octopodami-optimized-wordpress/-/issues)
 
 ## Support
 
-Email support is available to Amazon Web Services Marketplace Customers at [cloud@vmnative.com](mailto:cloud@vmnative.com). We do not offer refunds, but you may terminate your Octopodami Optimized WordPress (OOW) Stack at any time.
+[Email](mailto:cloudeya@pm.me) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Octopodami Optimized WordPress (OOW) Stack at any time.
 
 ## Troubleshooting
 
@@ -43,4 +43,4 @@ The documentation is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
-(c) 2018 [Cloudeya Limited](https://www.cloudeya.co.uk).
+(c) 2018 [Cloudeya Limited](https://www.cloudeya.ml).

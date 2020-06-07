@@ -60,18 +60,18 @@ To SSH into your EC2 instance:
 
 [![asciicast](https://asciinema.org/a/P5yUSD5AKcEPSoaerMDPA54Hn.svg)](https://asciinema.org/a/P5yUSD5AKcEPSoaerMDPA54Hn)
 
-4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](https://www.cloudeya.co.uk/oow/).
+4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](https://www.cloudeya.ml/oow/).
 
 ## Links
 
-1. [Product Website](https://www.cloudeya.co.uk/oow/)
+1. [Product Website](https://www.cloudeya.ml/oow/)
 2. [EULA](./octopodamiEULA.txt)
-3. [Knowledgebase](https://gitlab.com/cloudeya/octopodami-optimized-wordpress/-/wikis/home)
-4. [Issue Tracking](https://gitlab.com/cloudeya/octopodami-optimized-wordpress/-/issues)
+3. [Knowledgebase](https://github.com/cloudeya/octopodami-optimized-wordpress/-/wikis/home)
+4. [Issue Tracking](https://github.com/cloudeya/octopodami-optimized-wordpress/-/issues)
 
 ## Support
 
-Email support is available to Amazon Web Services Marketplace Customers at [cloud@vmnative.com](mailto:cloud@vmnative.com). We do not offer refunds, but you may terminate your Octopodami Optimized WordPress (OOW) Stack at any time.
+[Email](mailto:cloudeya@pm.me) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Octopodami Optimized WordPress (OOW) Stack at any time.
 
 ## License
 
@@ -79,4 +79,4 @@ The documentation is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
-(c) 2018 [Cloudeya Limited](https://www.cloudeya.co.uk).
+(c) 2018 [Cloudeya Limited](https://www.cloudeya.ml).
