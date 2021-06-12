@@ -1,4 +1,4 @@
-# Octopodami Optimized WordPress (OOW) Setup
+# WordPress Engineered by OCTOPODAMI (WEBO) Setup
 
 Our pre-configured stack relies on AWS EC2 which helps to improve performance and scalability of your WordPress site, but additional integration with other AWS services like S3, CloudFront, Route53, and Auto Scaling is possible.
 
@@ -18,7 +18,7 @@ Within the EC2 Dashboard page, you can do the following to launch an Octopodami 
 1. Click the **Launch Instance** button or click this button [![Launch Stack](./images/launch-stack.png?raw=true)](https://aws.amazon.com/marketplace/pp/VM-Native-Inc-Octopodami-Optimized-WordPress/B07L9KGRBC)
 2. Next, click **AWS Marketplace** tab on the left side of the **Choose an Amazon Machine Image (AMI)** page
 3. Enter the phrase **octopodami** in the search box and press **enter** on your keyboard
-4. Click the **select** button in front of Octopodami Optimized WordPress (OOW)
+4. Click the **select** button in front of WordPress Engineered by OCTOPODAMI
 5. Click the **continue** button in the dialog box
 6. Select an instance type that fits your budget then click the **Review and Launch** button
 7. Configure these options (**Security Groups**, **Instance Details**, **Storage**, and **Tags**) to match your business needs
@@ -71,7 +71,7 @@ To SSH into your EC2 instance:
 
 ## Support
 
-[Email](mailto:cloudeya@pm.me) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Octopodami Optimized WordPress (OOW) Stack at any time.
+[Email](mailto:orders@phooni.com) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your WordPress Engineered by OCTOPODAMI (WEBO) Stack at any time.
 
 ## License
 
@@ -79,4 +79,4 @@ The documentation is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
-(c) 2018 [Cloudeya Limited](https://www.cloudeya.ml).
+(c) 2018 [Phooni Limited](https://www.phooni.com).
