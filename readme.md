@@ -1,6 +1,6 @@
-# Octopodami Optimized WordPress (OOW)
+# WordPress Engineered by OCTOPODAMI (WEBO)
 
-With Octopodami Optimized WordPress (OOW), you can launch a WordPress stack pre-configured for auto-scaling, maintainability, performance, and security.
+With WordPress Engineered by OCTOPODAMI (WEBO), you can launch a WordPress stack pre-configured for auto-scaling, maintainability, performance, and security.
 
 Our expert engineers developed this 1-Click Amazon Machine Images (AMI) with rapid deployment in mind; we guarantee you will be up and running in 60 seconds on Amazon Web Services.
 
@@ -8,7 +8,7 @@ Instead of spending countless hours learning the intricacies of configuring a sc
 
 ## Features
 
-Octopodami Optimized WordPress (OOW) uses the following technologies:
+WordPress Engineered by OCTOPODAMI (WEBO) uses the following technologies:
 
 1. **Nginx**: a fast and light-weight web server
 2. **Nginx FastCGI Cache**: provides page-level caching at the web server level
@@ -24,14 +24,14 @@ For setup instructions, click [here](setup.md).
 
 ## Links
 
-1. [Product Page](https://www.cloudeya.ml/oow/)
+1. [Product Page](https://www.phooni.com/oow/)
 2. [EULA](octopodamiEULA.txt)
-3. [Knowledgebase](https://github.com/cloudeya/octopodami-optimized-wordpress/-/wikis/home)
-4. [Issue Tracking](https://github.com/cloudeya/octopodami-optimized-wordpress/-/issues)
+3. [Knowledgebase](https://github.com/phooni/wordpress-engineered-by-octopodami/-/wikis/home)
+4. [Issue Tracking](https://github.com/phooni/wordpress-engineered-by-octopodami/-/issues)
 
 ## Support
 
-[Email](mailto:cloudeya@pm.me) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Octopodami Optimized WordPress (OOW) Stack at any time.
+[Email](mailto:orders@phooni.com) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your WordPress Engineered by OCTOPODAMI (WEBO) Stack at any time.
 
 ## Troubleshooting
 
@@ -43,4 +43,4 @@ The documentation is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
-(c) 2018 [Cloudeya Limited](https://www.cloudeya.ml).
+(c) 2018 [Phooni Limited](https://www.phooni.com).
