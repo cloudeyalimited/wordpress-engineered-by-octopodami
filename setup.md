@@ -15,7 +15,7 @@ You need to create a unique EC2 Key Pair so you can log into your EC2 instance e
 
 Within the EC2 Dashboard page, you can do the following to launch a WordPress Engineered by OCTOPODAMI (WEBO) instance:
 
-1. Click the **Launch Instance** button or click this button [![Launch Stack](./images/launch-stack.png?raw=true)](https://aws.amazon.com/marketplace/pp/VM-Native-Inc-Octopodami-Optimized-WordPress/B07L9KGRBC)
+1. Click the **Launch Instance** button or click this button [![Launch Stack](./images/launch-stack.png?raw=true)](https://aws.amazon.com/marketplace/pp/prodview-iyn7nuvxxqcjg)
 2. Next, click **AWS Marketplace** tab on the left side of the **Choose an Amazon Machine Image (AMI)** page
 3. Enter the phrase **octopodami** in the search box and press **enter** on your keyboard
 4. Click the **select** button in front of WordPress Engineered by OCTOPODAMI
