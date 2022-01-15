@@ -60,11 +60,11 @@ To SSH into your EC2 instance:
 
 [![asciicast](https://asciinema.org/a/461919.svg)](https://asciinema.org/a/461919)
 
-4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](https://www.phooni.com/oow/).
+4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](mailto:orders@phooni.com).
 
 ## Links
 
-1. [Product Website](https://www.phooni.com/oow/)
+1. [Product Website](https://phooni.com/octopodami/)
 2. [EULA](./octopodamiEULA.txt)
 3. [Knowledgebase](https://github.com/phooni/wordpress-engineered-by-octopodami/-/wikis/home)
 4. [Issue Tracking](https://github.com/phooni/wordpress-engineered-by-octopodami/-/issues)
