@@ -24,10 +24,11 @@ For setup instructions, click [here](setup.md).
 
 ## Links
 
-1. [Product Page](https://www.phooni.com/oow/)
+1. [Product Page](https://phooni.com/octopodami/)
 2. [EULA](octopodamiEULA.txt)
 3. [Knowledgebase](https://github.com/phooni/wordpress-engineered-by-octopodami/-/wikis/home)
 4. [Issue Tracking](https://github.com/phooni/wordpress-engineered-by-octopodami/-/issues)
+5. [Changelog](changelog.md)
 
 ## Support
 
