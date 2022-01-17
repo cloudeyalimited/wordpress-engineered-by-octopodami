@@ -68,6 +68,7 @@ To SSH into your EC2 instance:
 2. [EULA](./octopodamiEULA.txt)
 3. [Knowledgebase](https://github.com/phooni/wordpress-engineered-by-octopodami/-/wikis/home)
 4. [Issue Tracking](https://github.com/phooni/wordpress-engineered-by-octopodami/-/issues)
+5. [Changelog](./changelog.md)
 
 ## Support
 
