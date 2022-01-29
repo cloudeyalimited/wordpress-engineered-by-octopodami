@@ -24,15 +24,15 @@ For setup instructions, click [here](setup.md).
 
 ## Links
 
-1. [Product Page](https://phooni.com/octopodami/)
+1. [Product Page](https://moatsystems.com/octopodami/)
 2. [EULA](octopodamiEULA.txt)
-3. [Knowledgebase](https://github.com/phooni/wordpress-engineered-by-octopodami/-/wikis/home)
-4. [Issue Tracking](https://github.com/phooni/wordpress-engineered-by-octopodami/-/issues)
+3. [Knowledgebase](https://github.com/moatsystems/wordpress-engineered-by-octopodami/-/wikis/home)
+4. [Issue Tracking](https://github.com/moatsystems/wordpress-engineered-by-octopodami/-/issues)
 5. [Changelog](changelog.md)
 
 ## Support
 
-[Email](mailto:orders@phooni.com) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your WordPress Engineered by OCTOPODAMI (WEBO) Stack at any time.
+[Email](mailto:hi@moatsystems.com) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your WordPress Engineered by OCTOPODAMI (WEBO) Stack at any time.
 
 ## Troubleshooting
 
@@ -44,4 +44,4 @@ The documentation is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
-(c) 2022 [Phooni Limited](https://www.phooni.com).
+(c) 2022 [Moat Systems Limited](https://www.moatsystems.com).
