@@ -60,19 +60,19 @@ To SSH into your EC2 instance:
 
 [![asciicast](https://asciinema.org/a/461919.svg)](https://asciinema.org/a/461919)
 
-4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](mailto:hi@moatsystems.com).
+4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](mailto:tech@cloudeya.org).
 
 ## Links
 
-1. [Product Website](https://moatsystems.com/octopodami/)
+1. [Product Website](https://aws.amazon.com/marketplace/pp/prodview-iyn7nuvxxqcjg)
 2. [EULA](./octopodamiEULA.txt)
-3. [Knowledgebase](https://github.com/moatsystems/wordpress-engineered-by-octopodami/-/wikis/home)
-4. [Issue Tracking](https://github.com/moatsystems/wordpress-engineered-by-octopodami/-/issues)
+3. [Knowledgebase](https://github.com/cloudeyalimited/wordpress-engineered-by-octopodami/-/wikis/home)
+4. [Issue Tracking](https://github.com/cloudeyalimited/wordpress-engineered-by-octopodami/-/issues)
 5. [Changelog](./changelog.md)
 
 ## Support
 
-[Email](mailto:hi@moatsystems.com) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your WordPress Engineered by OCTOPODAMI (WEBO) Stack at any time.
+[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your WordPress Engineered by OCTOPODAMI (WEBO) Stack at any time.
 
 ## License
 
@@ -80,4 +80,4 @@ The documentation is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
-(c) 2022 [Moat Systems Limited](https://www.moatsystems.com).
+(c) 2020 - 2022 [Cloudeya Limited](https://cloudeya.org).
