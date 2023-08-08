@@ -20,6 +20,8 @@ sudo certbot --nginx
 sudo certbot renew --dry-run
 ```
 
++ Access your domain name (`https://mydomainname.com`) in the browser.
+
 ## Links
 
 1. [Product Website](https://aws.amazon.com/marketplace/pp/prodview-iyn7nuvxxqcjg)
