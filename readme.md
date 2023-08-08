@@ -20,7 +20,8 @@ WordPress Engineered by OCTOPODAMI® (WEBO) uses the following technologies:
 
 ## Installation and Usage
 
-For setup instructions, click [here](setup.md).
++ For setup instructions, click [here](setup.md).
++ For installing SSL, click [here](ssl.md).
 
 ## Links
 
