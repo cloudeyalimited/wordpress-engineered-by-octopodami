@@ -5,7 +5,7 @@ You can secure your Octopodami installation with an SSL certificate by following
 + Login into your domain registrar
 + Update your domain A or CNAME record to point to the EC2 Instance IP Address
 + Login into your WordPress dashboard and update `WordPress Address (URL)` and `Site Address (URL)`. For example, http://mydomainname.com
-+ Wait for 15-20 minutes
++ Wait for 15-20 minutes so DNS can propagate.
 + Login into the EC2 instance,
 + Run these commands:
 
