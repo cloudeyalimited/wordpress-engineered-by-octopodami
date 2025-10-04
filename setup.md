@@ -57,9 +57,6 @@ To SSH into your EC2 instance:
 1. ```cd``` to the location of your .pem key
 2. Run ```chmod 600 mykey.pem``` to lock down your SSH key
 3. Run ```ssh -i /path/my-key-pair.pem ec2-user@<your ip address>```
-
-[![asciicast](https://asciinema.org/a/461919.svg)](https://asciinema.org/a/461919)
-
 4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](mailto:tech@cloudeya.org).
 5. To retrieve your WordPress credentials, run: ```sudo cat /root/.wordpress-credentials```
 
