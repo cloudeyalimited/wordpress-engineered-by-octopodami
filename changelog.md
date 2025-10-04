@@ -3,6 +3,10 @@ Octopodami® Changelog
 
 This file is used to list changes made in each version of Octopodami®.
 
+0.5.1 – 04/10/2025
+-----
+- [Finbarrs Oketunji](https://finbarrs.eu) - Security Patches
+
 0.5.0 – 03/10/2025
 -----
 - [Finbarrs Oketunji](https://finbarrs.eu) - Upgraded to Amazon Linux 2023
