@@ -3,6 +3,11 @@ Octopodami® Changelog
 
 This file is used to list changes made in each version of Octopodami®.
 
+0.5.0 – 03/10/2025
+-----
+- [Finbarrs Oketunji](https://finbarrs.eu) - Upgraded to Amazon Linux 2023
+- [Finbarrs Oketunji](https://finbarrs.eu) - New Unlock UI (User Interface)
+
 0.4.0 – 16/06/2024
 -----
 - [Finbarrs Oketunji](https://finbarrs.eu) - Code Refactoring
