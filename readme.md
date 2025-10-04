@@ -12,7 +12,7 @@ WordPress Engineered by OCTOPODAMI® (WEBO) uses the following technologies:
 
 1. **Nginx**: a fast and light-weight web server
 2. **Nginx FastCGI Cache**: provides page-level caching at the web server level
-3. **Amazon Linux 2**: CentOS-based operating system, optimized for AWS
+3. **Amazon Linux 2023**: CentOS-based operating system, optimized for AWS
 4. **PHP 8**: drops many [deprecated functions](https://www.php.net/manual/en/migration80.deprecated.php) in favor of [new, modernized features](https://www.php.net/manual/en/migration80.new-features.php). Additionally, [PHP 7.4](https://secure.php.net/supported-versions.php) will stop receiving security updates on November 28, 2022.
 5. **MySQL ([MariaDB](https://mariadb.org/))**: A high-performance, open-source relational database that offers advanced storage engines including XtraDB and TokuDB, providing superior performance, enhanced security features, and comprehensive diagnostic tools for enterprise-grade WordPress deployments.
 6. **[WP-CLI](https://wp-cli.org/)**: enables the management of WordPress from the command line.
