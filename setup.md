@@ -61,6 +61,7 @@ To SSH into your EC2 instance:
 [![asciicast](https://asciinema.org/a/461919.svg)](https://asciinema.org/a/461919)
 
 4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](mailto:tech@cloudeya.org).
+5. To retrieve your WordPress credentials, run: ```sudo cat /root/.wordpress-credentials```
 
 ## Links
 

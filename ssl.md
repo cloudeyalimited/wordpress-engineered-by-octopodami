@@ -11,9 +11,8 @@ You can secure your Octopodami installation with an SSL certificate by following
 
 ```sh
 sudo su -
-yum update -y
-amazon-linux-extras install epel -y
-yum install certbot python2-certbot-nginx -y
+dnf update -y
+dnf install -y certbot python3-certbot-nginx nginx-mod-stream
 sudo certbot --nginx
 ## Answer all the questions (this is a comment)
 ## Then, specify your domain name (this is a comment)

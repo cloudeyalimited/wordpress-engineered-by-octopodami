@@ -10,13 +10,13 @@ Instead of spending countless hours learning the intricacies of configuring a sc
 
 WordPress Engineered by OCTOPODAMI® (WEBO) uses the following technologies:
 
-1. **Nginx**: a fast and light-weight web server
-2. **Nginx FastCGI Cache**: provides page-level caching at the web server level
-3. **Amazon Linux 2023**: CentOS-based operating system, optimized for AWS
-4. **PHP 8**: drops many [deprecated functions](https://www.php.net/manual/en/migration80.deprecated.php) in favor of [new, modernized features](https://www.php.net/manual/en/migration80.new-features.php). Additionally, [PHP 7.4](https://secure.php.net/supported-versions.php) will stop receiving security updates on November 28, 2022.
-5. **MySQL ([MariaDB](https://mariadb.org/))**: A high-performance, open-source relational database that offers advanced storage engines including XtraDB and TokuDB, providing superior performance, enhanced security features, and comprehensive diagnostic tools for enterprise-grade WordPress deployments.
-6. **[WP-CLI](https://wp-cli.org/)**: enables the management of WordPress from the command line.
-7. **ModSecurity**: assists with WordPress brute force attempts resulting in a Denial of Service (DoS) attack among other security issues.
+1. **Nginx**: Fast, lightweight web server with high performance
+2. **Nginx FastCGI Cache**: Page-level caching at web server level for optimal speed
+3. **Amazon Linux 2023**: AWS-optimized Linux distribution with enhanced security
+4. **PHP 8.x**: Latest stable PHP with improved performance and modern features
+5. **MariaDB**: High-performance MySQL-compatible database with advanced storage engines
+6. **[WP-CLI](https://wp-cli.org/)**: Command-line interface for WordPress management
+7. **ModSecurity**: Web application firewall for protection against attacks and DoS attempts
 
 ## Installation and Usage
 
