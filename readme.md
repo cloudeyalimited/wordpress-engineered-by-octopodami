@@ -1,6 +1,6 @@
 # WordPress Engineered by OCTOPODAMI (WEBO)
 
-With WordPress Engineered by OCTOPODAMI (WEBO), you can launch a WordPress stack pre-configured for auto-scaling, maintainability, performance, and security.
+With [WordPress](https://wordpress.org/) Engineered by OCTOPODAMI (WEBO), you can launch a WordPress stack pre-configured for auto-scaling, maintainability, performance, and security.
 
 Our expert engineers developed this 1-Click Amazon Machine Images (AMI) with rapid deployment in mind; we guarantee you will be up and running in 60 seconds on Amazon Web Services.
 
