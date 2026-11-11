@@ -3,6 +3,14 @@ Octopodami® Changelog
 
 This file is used to list changes made in each version of Octopodami®.
 
+0.6.1 – 11/11/2026
+-----
+- [Finbarrs Oketunji](https://finbarrs.eu) - Nginx 1.30.x
+- [Finbarrs Oketunji](https://finbarrs.eu) - PHP 8.4.x
+- [Finbarrs Oketunji](https://finbarrs.eu) - MariaDB 12.3.x
+- [Finbarrs Oketunji](https://finbarrs.eu) - WordPress 7.1.4
+- [Finbarrs Oketunji](https://finbarrs.eu) - WP-CLI 2.12.0
+
 0.5.1 – 04/10/2025
 -----
 - [Finbarrs Oketunji](https://finbarrs.eu) - Security Patches
